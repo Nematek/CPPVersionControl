@@ -4,7 +4,7 @@
 
 int main() {
 
-	std::cout << "This is my first version control in 2 years!\n\n";
+	std::cout << "Hello World!\n\n";
 	NematekGSD();
 
 	return 0;
