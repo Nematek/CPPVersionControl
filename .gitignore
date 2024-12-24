@@ -361,3 +361,47 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Visual Studio generated files
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.manifest
+*.tlog
+*.log
+
+# Intermediate directories
+/Debug/
+/Release/
+/x64/
+/bin/
+/obj/
+
+# Temporary files
+*.tmp
+*.cache
+
+# CMake (optional)
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/build/
+
+# Visual Studio Code settings
+.vscode/
+
+# Backup files
+*.bak
+*.old
