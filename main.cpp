@@ -4,7 +4,8 @@
 
 int main() {
 
-	std::cout << "Hello World!\n\n";
+	// Print message
+	std::cout << "Welcome!\n\n\n";
 	NematekGSD();
 
 	return 0;
